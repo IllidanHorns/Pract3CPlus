@@ -1,0 +1,4 @@
+﻿  Pract3CPlus.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\format(42): warning STL4038: The contents of <format> are available only with C++20 or later.
+C:\Users\illid\source\repos\Pract3CPlus\Pract3CPlus\Pract3CPlus.cpp(8): error C4700: использована неинициализированная локальная переменная "i"
+C:\Users\illid\source\repos\Pract3CPlus\Pract3CPlus\Pract3CPlus.cpp(12): error C4700: использована неинициализированная локальная переменная "j"
